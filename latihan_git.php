@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 
 echo "ini latihan git";
 
@@ -17,4 +18,7 @@ echo "ini source code dari ahmad";
 
 echo "ini source code dari Radenbeii Endro";
 echo "adak..adak...adak.........ayowwwhhh.ayowh.."
+
+echo "PULANG... PAK... EKO.....";
+
 ?>
