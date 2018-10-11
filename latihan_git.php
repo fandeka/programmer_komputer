@@ -10,4 +10,5 @@ echo "ini source code dari sugik";
 
 echo "ini source code dari yudi";
 echo "ini source code dari raden samudra";
+echo "PULANG... PAK... EKO.....";
 ?>
